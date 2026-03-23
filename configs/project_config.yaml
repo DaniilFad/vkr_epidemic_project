@@ -1,0 +1,12 @@
+project_name: vkr_epidemic_project
+city: Moscow
+disease: COVID-19
+frequency: weekly
+target_column: cases
+forecast_horizons_weeks: [1, 2, 3]
+date_column: week_start
+raw_paths:
+  covid: data/raw/covid/Статистика КОВИД.csv
+  wordstat_dir: data/raw/wordstat
+  weather: data/raw/weather/weather_moscow.csv
+  calendar: data/raw/calendar/calendar_events.csv

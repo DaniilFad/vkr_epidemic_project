@@ -1,0 +1,4 @@
+﻿forecast_origin_week,forecast_week_start,horizon_weeks,risk_level,current_cases,forecast_cases,forecast_growth_pct_vs_current,recent_mean_4,recent_mean_8,lower_80,upper_80,reason,chosen_model_name,chosen_model_source
+2025-03-17,2025-03-24,1,low,725.0,756.3452368014601,4.32348093813244,872.0,989.5,244.59723382420952,1268.0932397787108,прогноз не показывает выраженного роста относительно текущего уровня и недавнего фона,advanced_ratio_catboost,advanced
+2025-03-17,2025-03-31,2,low,725.0,908.62,25.326896551724133,872.0,989.5,0.0,1968.3857049862704,прогноз не показывает выраженного роста относительно текущего уровня и недавнего фона,hybrid_catboost_log,old
+2025-03-17,2025-04-07,3,low,725.0,828.4786714986732,14.272920206713536,872.0,989.5,0.0,2109.1854467269554,прогноз не показывает выраженного роста относительно текущего уровня и недавнего фона,advanced_ratio_catboost,advanced

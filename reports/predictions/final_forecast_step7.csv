@@ -1,0 +1,4 @@
+﻿forecast_origin_week,forecast_week_start,horizon_weeks,best_model_name,current_cases,point_forecast,lower_80,upper_80,lower_95,upper_95,rmse_cv,mae_cv,mape_cv,rmse_improvement_vs_naive_pct
+2025-03-17,2025-03-24,1,naive_last_week,725.0,725.0,0.0,1430.0,0.0,1579.6,563.109,423.204,16.166,0.0
+2025-03-17,2025-03-31,2,hybrid_catboost_log,725.0,908.62,0.0,1767.766,0.0,2130.877,826.941,669.17,31.211,15.989
+2025-03-17,2025-04-07,3,hybrid_catboost_log,725.0,1103.702,30.795,2462.065,0.0,3126.033,1043.147,804.165,36.601,22.079

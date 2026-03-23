@@ -1,0 +1,4 @@
+﻿horizon_weeks,old_best_model_name,old_best_rmse,advanced_best_model_name,advanced_best_rmse,chosen_source,chosen_model_name,chosen_rmse,chosen_mae,chosen_mape_pct
+1,naive_last_week,563.1089175827573,advanced_ratio_catboost,399.31957627657965,advanced,advanced_ratio_catboost,399.31957627657965,280.9316609497714,11.526109854882051
+2,hybrid_catboost_log,826.940583657501,advanced_level_catboost,893.4941464815719,old,hybrid_catboost_log,826.940583657501,669.1696962145598,31.210575934585595
+3,hybrid_catboost_log,1043.1468754517243,advanced_ratio_catboost,999.342027410778,advanced,advanced_ratio_catboost,999.342027410778,602.5003513812372,24.26327342488538

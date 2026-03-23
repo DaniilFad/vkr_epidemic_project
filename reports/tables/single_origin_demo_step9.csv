@@ -1,0 +1,4 @@
+﻿forecast_origin_week,target_week_start,horizon_weeks,model_name,current_cases_at_origin,actual_cases,predicted_cases,abs_error,signed_error
+2025-02-24,2025-03-03,1,naive_last_week,996.0,903.0,996.0,93.0,93.0
+2025-02-24,2025-03-10,2,hybrid_catboost_log,996.0,864.0,1219.0338885495378,355.0338885495378,355.0338885495378
+2025-02-24,2025-03-17,3,hybrid_catboost_log,996.0,725.0,1237.4954529153874,512.4954529153874,512.4954529153874

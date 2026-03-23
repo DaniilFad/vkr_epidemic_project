@@ -1,0 +1,4 @@
+﻿forecast_origin_week,forecast_week_start,horizon_weeks,risk_level,current_cases,forecast_cases,forecast_growth_pct_vs_current,lower_80,upper_80,reason,best_model_name
+2025-03-17,2025-03-24,1,low,725.0,725.0,0.0,0.0,1430.0,прогноз не показывает выраженного роста относительно текущего уровня и недавнего фона,naive_last_week
+2025-03-17,2025-03-31,2,medium,725.0,908.62,25.327,0.0,1767.766,прогноз показывает заметный рост относительно текущего уровня или недавнего среднего,hybrid_catboost_log
+2025-03-17,2025-04-07,3,medium,725.0,1103.702,52.235,30.795,2462.065,прогноз показывает заметный рост относительно текущего уровня или недавнего среднего,hybrid_catboost_log
